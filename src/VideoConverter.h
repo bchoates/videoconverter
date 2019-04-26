@@ -1,7 +1,6 @@
 /*
  * Video Converter 
  */
-#include <fstream>
 #include "FrameProcessor.h"
 #include "KeyframeExtractor.h"
 
